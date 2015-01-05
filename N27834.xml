@@ -112,17 +112,17 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037087_0000_100C4893C9CEC5D0"/>
-            <pb facs="tcp:037087_0001_100C489672325F50"/>
+            <pb facs="unknown:037087_0000_100C4893C9CEC5D0"/>
+            <pb facs="unknown:037087_0001_100C489672325F50"/>
             <p>THE PLEASURES OF HOPE; WITH OTHER POEMS. BY THOMAS CAMPBELL.</p>
             <p>EDINBURGH, PRINTED: NEW-YORK, RE-PRINTED BY JOHN FURMAN, OPPOSITE THE CITY-HALL, FOR JONES BULL. 1800.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:037087_0002_100C4898A4BD8C50"/>
+            <pb facs="unknown:037087_0002_100C4898A4BD8C50"/>
             <p>TO ROBERT ANDERSON, M. D. THE FOLLOWING POEMS ARE RESPECTFULLY INSCRIBED, BY HIS SINCERE FRIEND, THE AUTHOR.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:037087_0003_100C489B4026F4A8"/>
+            <pb facs="unknown:037087_0003_100C489B4026F4A8"/>
             <head>CONTENTS.</head>
             <list>
                <item>Pleasures of Hope, Part I. Page 9</item>
@@ -142,11 +142,11 @@
       </front>
       <body>
          <div type="half_title">
-            <pb facs="tcp:037087_0004_100C489CC48D5050"/>
+            <pb facs="unknown:037087_0004_100C489CC48D5050"/>
             <p>THE <hi>Pleasures of Hope.</hi> PART FIRST.</p>
          </div>
          <div n="1" type="part">
-            <pb facs="tcp:037087_0005_100C489F78CA1DD0"/>
+            <pb facs="unknown:037087_0005_100C489F78CA1DD0"/>
             <head>
                <hi>Pleasures of Hope.</hi> PART I.</head>
             <lg>
@@ -160,7 +160,7 @@
                <l>And robes the mountain in its azure hue.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:037087_0006_100C48A123DC82F0"/>
+               <pb n="10" facs="unknown:037087_0006_100C48A123DC82F0"/>
                <l>Thus, with delight, we linger to survey</l>
                <l n="10">The promis'd joys of life's unmeasur'd way;</l>
                <l>Thus, from afar, each dim-discover'd scene</l>
@@ -182,7 +182,7 @@
                <l>With thee, sweet Hope! resides the heav'nly light,</l>
                <l>That pours remotest rapture on the sight;</l>
                <l n="25">
-                  <pb n="11" facs="tcp:037087_0007_100C48A325213408"/>Thine is the charm of life's bewilder'd way,</l>
+                  <pb n="11" facs="unknown:037087_0007_100C48A325213408"/>Thine is the charm of life's bewilder'd way,</l>
                <l>That calls each slumb'ring passion into play.</l>
                <l>Wak'd by thy touch, I see the sister band,</l>
                <l>On tiptoe watching, start at thy command,</l>
@@ -202,7 +202,7 @@
                <l n="40">But Hope, the charmer, linger'd still behind.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:037087_0008_100C48A4AB11ECB8"/>
+               <pb n="12" facs="unknown:037087_0008_100C48A4AB11ECB8"/>
                <l>Thus, while Elijah's burning wheels prepare,</l>
                <l>From Carmel's height to sweep the fields of air,</l>
                <l>The prophet's mantle, ere his flight began,</l>
@@ -222,7 +222,7 @@
                <l>Angel of life! thy glittering wings explore</l>
                <l>Earth's loneliest bounds, and Ocean's wildest shore.</l>
                <l n="55">
-                  <pb n="13" facs="tcp:037087_0009_100C48A7D0DC0658"/>Lo! to the wint'ry winds the pilot yields</l>
+                  <pb n="13" facs="unknown:037087_0009_100C48A7D0DC0658"/>Lo! to the wint'ry winds the pilot yields</l>
                <l>His bark careering o'er unfathom'd fields;</l>
                <l>Now on Atlantic waves he rides afar,</l>
                <l>Where Andes, giant of the western star,</l>
@@ -244,7 +244,7 @@
                <l n="70">Thy heart is sad, thy home is far away.</l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:037087_0010_100C326E662DC208"/>
+               <pb n="14" facs="unknown:037087_0010_100C326E662DC208"/>
                <l>But Hope can here her moonlight vigils keep,</l>
                <l>And sing to charm the spirit of the deep:</l>
                <l>Swift as yon streamer lights the starry pole,</l>
@@ -264,7 +264,7 @@
                <l>Points to the master's eyes (where'er they roam)</l>
                <l>His wistful face, and whines a welcome home.</l>
                <l>
-                  <pb n="15" facs="tcp:037087_0011_100C48ABE5090C70"/>Friend of the brave! in peril's darkest hour,</l>
+                  <pb n="15" facs="unknown:037087_0011_100C48ABE5090C70"/>Friend of the brave! in peril's darkest hour,</l>
                <l n="90">Intrepid Virtue looks to thee for power;</l>
                <l>To thee the heart its trembling homage yields,</l>
                <l>On stormy floods, and carnage-cover'd fields,</l>
@@ -284,7 +284,7 @@
                <l>In horrid climes, where Chiloe's tempests sweep</l>
                <l>Tumultuous murmurs o'er the troubled deep,</l>
                <l n="105">
-                  <pb n="16" facs="tcp:037087_0012_100C48AD6A29B768"/>'Twas his to mourn misfortune's rudest shock,</l>
+                  <pb n="16" facs="unknown:037087_0012_100C48AD6A29B768"/>'Twas his to mourn misfortune's rudest shock,</l>
                <l>Scourg'd by the winds, and cradled on the rock,</l>
                <l>To wake each joyless morn, and search again</l>
                <l>The famish'd haunts of solitary men;</l>
@@ -303,7 +303,7 @@
                </l>
             </lg>
             <lg>
-               <pb n="17" facs="tcp:037087_0013_100C48AF183FF260"/>
+               <pb n="17" facs="unknown:037087_0013_100C48AF183FF260"/>
                <l>Congenial Hope! thy passion-kindling power</l>
                <l>How bright, how strong, in youth's untroubled hour!</l>
                <l>On yon proud height, with Genius hand in hand,</l>
@@ -327,7 +327,7 @@
                </l>
                <l>His winged insects, and his rosy flow'rs;</l>
                <l>
-                  <pb n="18" facs="tcp:037087_0014_100C48B2691EAC20"/>Calls from their woodland haunts the savage train</l>
+                  <pb n="18" facs="unknown:037087_0014_100C48B2691EAC20"/>Calls from their woodland haunts the savage train</l>
                <l>With sounding horn, and counts them on the plain—</l>
                <l>So once, at Heav'n's command, the wand'rers came</l>
                <l n="140">To Eden's shade, and heard their various name.</l>
@@ -348,7 +348,7 @@
                <l>Hark! from bright spires that gild the Delphian height,</l>
                <l>From streams that wander in eternal light,</l>
                <l>
-                  <pb n="19" facs="tcp:037087_0015_100C48B47B220020"/>Ranged on their hill, Harmonia's daughters swell</l>
+                  <pb n="19" facs="unknown:037087_0015_100C48B47B220020"/>Ranged on their hill, Harmonia's daughters swell</l>
                <l>The mingling tones of horn, and harp, and shell;</l>
                <l n="155">Deep from his vaults, the Loxian murmurs flow, <hi rend="sup">5</hi>
                </l>
@@ -370,7 +370,7 @@
                <l>"When Venus, thron'd in clouds of rosy hue,</l>
                <l>Flings from her golden urn the vesper dew;</l>
                <l>
-                  <pb n="20" facs="tcp:037087_0016_100C48B603888698"/>And bids fond man her glimmering noon employ,</l>
+                  <pb n="20" facs="unknown:037087_0016_100C48B603888698"/>And bids fond man her glimmering noon employ,</l>
                <l n="170">Sacred to love, and walks of tender joy;</l>
                <l>A milder mood the goddess shall recall,</l>
                <l>And soft as dew thy tones of music fall;</l>
@@ -391,7 +391,7 @@
                <l>"Yes; to thy tongue shall seraph words be giv'n,</l>
                <l>And pow'r on earth to plead the cause of Heav'n;</l>
                <l n="185">
-                  <pb n="21" facs="tcp:037087_0017_100C48B8A6BB0DE8"/>The proud, the cold untroubled heart of stone,</l>
+                  <pb n="21" facs="unknown:037087_0017_100C48B8A6BB0DE8"/>The proud, the cold untroubled heart of stone,</l>
                <l>That never mus'd on sorrow but its own,</l>
                <l>Unlocks a generous store at thy command,</l>
                <l>Like Horeb's rocks beneath the prophet's hand. <hi rend="sup">6</hi>
@@ -412,7 +412,7 @@
                <l n="200">Hope is thy star, her light is ever thine."</l>
             </lg>
             <lg>
-               <pb n="22" facs="tcp:037087_0018_100C48BAD3456150"/>
+               <pb n="22" facs="unknown:037087_0018_100C48BAD3456150"/>
                <l>Propitious Pow'r! when rankling cares annoy</l>
                <l>The sacred home of Hymenean joy;</l>
                <l>When doom'd to Poverty's sequester'd dell,</l>
@@ -432,7 +432,7 @@
                <l>These busy hands a lovelier cot shall build,</l>
                <l>And deck with fairer flow'rs his little field;</l>
                <l>
-                  <pb n="23" facs="tcp:037087_0019_100C48BD19BD0128"/>And call from Heav'n propitious dews to breathe</l>
+                  <pb n="23" facs="unknown:037087_0019_100C48BD19BD0128"/>And call from Heav'n propitious dews to breathe</l>
                <l n="220">Arcadian beauty on the barren heath:</l>
                <l>Tell, that while Love's spontaneous smile endears</l>
                <l>The days of peace, the sabbath of his years,</l>
@@ -451,7 +451,7 @@
                <l>Bright as his manly sire, the son shall be</l>
                <l>In form and soul; but, ah! more blest than he!</l>
                <l n="235">
-                  <pb n="24" facs="tcp:037087_0020_100C48BF56BE24C0"/>Thy fame, thy worth, thy filial love at last,</l>
+                  <pb n="24" facs="unknown:037087_0020_100C48BF56BE24C0"/>Thy fame, thy worth, thy filial love at last,</l>
                <l>Shall soothe this aching heart for all the past—</l>
                <l>With many a smile my solitude repay,</l>
                <l>And chase the world's ungenerous scorn away.</l>
@@ -472,7 +472,7 @@
                <l>So speaks affection, ere the infant eye</l>
                <l n="250">Can look regard, or brighten in reply;</l>
                <l>
-                  <pb n="25" facs="tcp:037087_0021_100C48C174E7EE18"/>But when the cherub lip hath learnt to claim</l>
+                  <pb n="25" facs="unknown:037087_0021_100C48C174E7EE18"/>But when the cherub lip hath learnt to claim</l>
                <l>A mother's ear by that endearing name;</l>
                <l>Soon as the playful innocent can prove</l>
                <l>A' tear of pity, or a smile of love,</l>
@@ -491,7 +491,7 @@
                <l n="265">Unblest by visionary thoughts that stray</l>
                <l>To count the joys of Fortune's better day!</l>
                <l>
-                  <pb n="26" facs="tcp:037087_0022_100C48C37B29D408"/>Lo, nature, life, and liberty relume</l>
+                  <pb n="26" facs="unknown:037087_0022_100C48C37B29D408"/>Lo, nature, life, and liberty relume</l>
                <l>The dim-ey'd tenant of the dungeon gloom,</l>
                <l>A long lost friend, or hapless child restor'd,</l>
                <l n="270">Smile at his blazing hearth and social board;</l>
@@ -512,7 +512,7 @@
                <l n="281">Knew the pale form, and, shreaking in amaze,</l>
                <l>Claspt her cold hands, and fix'd her maddening gaze:</l>
                <l>
-                  <pb n="27" facs="tcp:037087_0023_100C48C58F7B5160"/>Poor widow'd wretch! 'twas there she wept in vain</l>
+                  <pb n="27" facs="unknown:037087_0023_100C48C58F7B5160"/>Poor widow'd wretch! 'twas there she wept in vain</l>
                <l>Till memory fled her agonizing brain;—</l>
                <l n="285">But Mercy gave, to charm the sense of woe,</l>
                <l>Ideal peace, that Truth could ne'er bestow:—</l>
@@ -533,7 +533,7 @@
                <l>Whose erring heart the lash of sorrow bore,</l>
                <l>But found not pity when it err'd no more.</l>
                <l>
-                  <pb n="28" facs="tcp:037087_0024_100C48C7C0B51760"/>Yon friendless man, at whose dejected eye</l>
+                  <pb n="28" facs="unknown:037087_0024_100C48C7C0B51760"/>Yon friendless man, at whose dejected eye</l>
                <l n="300">Th' unfeeling proud one looks—and passes by,</l>
                <l>Condemn'd on Penury's barren path to roam,</l>
                <l>Scorn'd by the world, and left without a home—</l>
@@ -551,7 +551,7 @@
                <l>And Hope half mingles with the poor man's pray'r.</l>
             </lg>
             <lg>
-               <pb n="29" facs="tcp:037087_0025_100C48C9DC51ADF8"/>
+               <pb n="29" facs="unknown:037087_0025_100C48C9DC51ADF8"/>
                <l n="315">Hope! when I mourn, with sympathizing mind,</l>
                <l>The wrongs of fate, the woes of human kind,</l>
                <l>Thy blissful omens bid my spirit see</l>
@@ -571,7 +571,7 @@
                <l>There shall the flocks on thymy pasture stray,</l>
                <l n="330">And shepherds dance at Summer's op'ning day;</l>
                <l>
-                  <pb n="30" facs="tcp:037087_0026_100C48CC0517B9E8"/>Each wand'ring genius of the lonely glen</l>
+                  <pb n="30" facs="unknown:037087_0026_100C48CC0517B9E8"/>Each wand'ring genius of the lonely glen</l>
                <l>Shall start to view the glittering haunts of men;</l>
                <l>And silence watch, on woodland heights around,</l>
                <l>The village curfew, as it tolls profound.</l>
@@ -593,7 +593,7 @@
                <l n="345">Hark! the stern captive spurns his heavy load,</l>
                <l>And asks the image back that Heaven bestow'd!</l>
                <l>
-                  <pb n="31" facs="tcp:037087_0027_100C48CE359F0530"/>Fierce in his eye the fire of valour burns,</l>
+                  <pb n="31" facs="unknown:037087_0027_100C48CE359F0530"/>Fierce in his eye the fire of valour burns,</l>
                <l>And, as the slave departs, the man returns!</l>
             </lg>
             <lg>
@@ -615,7 +615,7 @@
                <l>Yet, though destruction sweep these lovely plains,</l>
                <l>Rise, fellow men! our country yet remains!</l>
                <l>
-                  <pb n="32" facs="tcp:037087_0028_100C48D03400C650"/>By that dread name we wave the sword on high,</l>
+                  <pb n="32" facs="unknown:037087_0028_100C48D03400C650"/>By that dread name we wave the sword on high,</l>
                <l>And swear for her to live!—with her to die!</l>
             </lg>
             <lg>
@@ -636,7 +636,7 @@
                <l>Found not a generous friend, a pitying foe!</l>
                <l>Strength in her arms, nor mercy in her woe!</l>
                <l>
-                  <pb n="33" facs="tcp:037087_0029_100C48D1B9619728"/>Dropt from her nerveless grasp the shatter'd speer,</l>
+                  <pb n="33" facs="unknown:037087_0029_100C48D1B9619728"/>Dropt from her nerveless grasp the shatter'd speer,</l>
                <l n="380">Clos'd her bright eye, and curb'd her high career;—</l>
                <l>Hope, for a season, bade the world farewell,</l>
                <l>And Freedom shriek'd—as KOSCIUSKO fell!</l>
@@ -657,7 +657,7 @@
                <l>Oh! Righteous Heav'n! ere Freedom found a grave,</l>
                <l>Why slept the sword, omnipotent to save?</l>
                <l n="395">
-                  <pb n="34" facs="tcp:037087_0030_100C48D48544D4C8"/>Where was thine arm, O vengeance! where thy rod,</l>
+                  <pb n="34" facs="unknown:037087_0030_100C48D48544D4C8"/>Where was thine arm, O vengeance! where thy rod,</l>
                <l>That smote the foes of Zion and of God,</l>
                <l>That crush'd proud Ammon, when his iron car</l>
                <l>Was yok'd in wrath, and thunder'd from afar?</l>
@@ -677,7 +677,7 @@
                <l n="410">The patriot Tell—the BRUCE OF BANNOCKBURN!</l>
             </lg>
             <lg>
-               <pb n="35" facs="tcp:037087_0031_100C48D6CA5A2198"/>
+               <pb n="35" facs="unknown:037087_0031_100C48D6CA5A2198"/>
                <l>Yes! thy proud lords, unpitied land! shall see</l>
                <l>That man hath yet a soul—and dare be free!</l>
                <l>A little while, along thy saddening plains,</l>
@@ -697,7 +697,7 @@
                <l n="425">Perhaps ye watch, at Pride's unhallow'd shrine,</l>
                <l>Her victims, newly slain, and thus divine:</l>
                <l>
-                  <pb n="36" facs="tcp:037087_0032_100C48D8E4D37998"/>"Here shall thy triumph, Genius, ease, and here</l>
+                  <pb n="36" facs="unknown:037087_0032_100C48D8E4D37998"/>"Here shall thy triumph, Genius, ease, and here</l>
                <l>Truth, Science, Virtue, close your short career."</l>
             </lg>
             <lg>
@@ -717,7 +717,7 @@
                <l n="440">Why then hath Plato liv'd—or Sydney died?</l>
             </lg>
             <lg>
-               <pb n="37" facs="tcp:037087_0033_100C48DB31831450"/>
+               <pb n="37" facs="unknown:037087_0033_100C48DB31831450"/>
                <l>Ye fond adorers of departed fame,</l>
                <l>Who warm at Scipio's worth, or Tully's name!</l>
                <l>Ye that, in fancied vision, can admire</l>
@@ -739,7 +739,7 @@
                      <desc>〈◊〉</desc>
                   </gap>?</l>
                <l>
-                  <pb n="38" facs="tcp:037087_0034_100C48DD32B093E8"/>Nor Tell disclose, through peril and alarm,</l>
+                  <pb n="38" facs="unknown:037087_0034_100C48DD32B093E8"/>Nor Tell disclose, through peril and alarm,</l>
                <l n="460">The might that slumbers in a peasant's arm?</l>
             </lg>
             <lg>
@@ -759,7 +759,7 @@
                <l>And rival all but Shakspeare's name below!</l>
             </lg>
             <lg>
-               <pb n="39" facs="tcp:037087_0035_100C48DF59E28E70"/>
+               <pb n="39" facs="unknown:037087_0035_100C48DF59E28E70"/>
                <l>And say, supernal Powers! who deeply scan</l>
                <l>Heav'n's dark decrees, unfathom'd yet by man,</l>
                <l n="475">When shall the world call down, to cleanse her shame,</l>
@@ -780,7 +780,7 @@
                <l>A wretch, a coward; yes, because a slave!—</l>
             </lg>
             <lg>
-               <pb n="40" facs="tcp:037087_0036_100C48E162347070"/>
+               <pb n="40" facs="unknown:037087_0036_100C48E162347070"/>
                <l>Eternal Nature! when thy giant hand</l>
                <l n="490">Had heav'd the floods, and fix'd the trembling land,</l>
                <l>When life sprung startling at thy plastic call,</l>
@@ -800,7 +800,7 @@
                <l>Lo! Once in triumph, on his boundless plain,</l>
                <l>The quiver'd chief of Congo lov'd to reign;</l>
                <l n="505">
-                  <pb n="41" facs="tcp:037087_0037_100C48E3813BEB00"/>With fires proportioned to his native sky,</l>
+                  <pb n="41" facs="unknown:037087_0037_100C48E3813BEB00"/>With fires proportioned to his native sky,</l>
                <l>Strength in his arm, and light'ning in his eye;</l>
                <l>Scour'd with wild feet his sun-illumin'd zone,</l>
                <l>The spear, the lion, and the woods his own;</l>
@@ -821,7 +821,7 @@
                <l>The shrill horn blew <hi rend="sup">10</hi>; at that alarum knell</l>
                <l n="520">His guardian angel took a last farewell!</l>
                <l>
-                  <pb n="42" facs="tcp:037087_0038_100C48E5A4E140F0"/>That funeral dirge to darkness hath resign'd</l>
+                  <pb n="42" facs="unknown:037087_0038_100C48E5A4E140F0"/>That funeral dirge to darkness hath resign'd</l>
                <l>The fiery grandeur of a generous mind!—</l>
                <l>Poor fetter'd man! I hear thee whispering low</l>
                <l>Unhallowed vows to Guilt, the child of Woe!</l>
@@ -842,7 +842,7 @@
                <l n="535">Ye orient realms, where Ganges' waters run!</l>
                <l>Prolific fields! dominions of the sun!</l>
                <l>
-                  <pb n="43" facs="tcp:037087_0039_100C48E80B857E50"/>How long your tribes have trembled and obey'd!</l>
+                  <pb n="43" facs="unknown:037087_0039_100C48E80B857E50"/>How long your tribes have trembled and obey'd!</l>
                <l>How long was Timur's iron sceptre sway'd! <hi rend="sup">11</hi>
                </l>
                <l>Whose marshall'd hosts, the lions of the plain,</l>
@@ -863,7 +863,7 @@
                <l>And brav'd the stormy spirit of the Cape; <hi rend="sup">12</hi>
                </l>
                <l>
-                  <pb n="44" facs="tcp:037087_0040_100C48EA6D4278B8"/>Children of Brama! then was mercy nigh</l>
+                  <pb n="44" facs="unknown:037087_0040_100C48EA6D4278B8"/>Children of Brama! then was mercy nigh</l>
                <l>To wash the stain of blood's eternal dye?</l>
                <l n="555">Did Peace descend, to triumph and to save,</l>
                <l>When free-born Britons cross'd the Indian wave?</l>
@@ -883,7 +883,7 @@
                <l>Could mock the groans of fellow men, and bear,</l>
                <l>The curse of kingdoms peopled with despair;</l>
                <l>
-                  <pb n="45" facs="tcp:037087_0041_100C48ED2093CC48"/>Could stamp disgrace on Nature's hollow name,</l>
+                  <pb n="45" facs="unknown:037087_0041_100C48ED2093CC48"/>Could stamp disgrace on Nature's hollow name,</l>
                <l n="570">And barter, with their gold, eternal shame!</l>
             </lg>
             <lg>
@@ -904,7 +904,7 @@
                <l>Nine times hath Guilt, through all his giant frame,</l>
                <l>Convulsive trembled, as the Mighty came;</l>
                <l n="585">
-                  <pb n="46" facs="tcp:037087_0042_100C48EF3B573538"/>Nine times hath suffering Mercy spar'd in vain—<hi rend="sup">14</hi>
+                  <pb n="46" facs="unknown:037087_0042_100C48EF3B573538"/>Nine times hath suffering Mercy spar'd in vain—<hi rend="sup">14</hi>
                </l>
                <l>But Heav'n shall burst her starry gates again!</l>
                <l>He comes! dread Brama shakes the sunless sky</l>
@@ -924,7 +924,7 @@
                <l>The tenth Avater comes! at Heaven's command</l>
                <l n="600">Shall Seriswattee <hi rend="sup">15</hi> wave her hallowed wand!</l>
                <l>
-                  <pb n="47" facs="tcp:037087_0043_100C48F1651C4268"/>And Camdeo bright, and Ganesa sublime,</l>
+                  <pb n="47" facs="unknown:037087_0043_100C48F1651C4268"/>And Camdeo bright, and Ganesa sublime,</l>
                <l>Shall bless with joy their own propitious clime!—</l>
                <l>Come, Heav'nly Powers! primeval peace restore!</l>
                <l>Love!—Mercy!—Wisdom!—rule for evermore!</l>
@@ -932,11 +932,11 @@
             <trailer>END OF PART FIRST.</trailer>
          </div>
          <div type="half_title">
-            <pb facs="tcp:037087_0044_100C48F3F7FA6DD8"/>
+            <pb facs="unknown:037087_0044_100C48F3F7FA6DD8"/>
             <p>THE <hi>Pleasures of Hope.</hi> PART SECOND.</p>
          </div>
          <div n="2" type="part">
-            <pb facs="tcp:037087_0045_100C48F5831BAF50"/>
+            <pb facs="unknown:037087_0045_100C48F5831BAF50"/>
             <head>
                <hi>Pleasures of Hope.</hi> PART II.</head>
             <lg>
@@ -951,7 +951,7 @@
                <l>There be, perhaps, who barren hearts avow,</l>
                <l>Cold as the rocks on Torneo's hoary brow;</l>
                <l>
-                  <pb n="52" facs="tcp:037087_0046_100C48F7833215B0"/>There be, whose loveless wisdom never fail'd,</l>
+                  <pb n="52" facs="unknown:037087_0046_100C48F7833215B0"/>There be, whose loveless wisdom never fail'd,</l>
                <l n="10">In self-adoring pride securely mail'd;—</l>
                <l>But, triumph not, ye peace-enamour'd few!</l>
                <l>Fire, Nature, Genius, never dwelt with you!</l>
@@ -971,7 +971,7 @@
                <l>Oh! what were man?—a world without a sun!</l>
             </lg>
             <lg>
-               <pb n="53" facs="tcp:037087_0047_100C48F9AC3E4F28"/>
+               <pb n="53" facs="unknown:037087_0047_100C48F9AC3E4F28"/>
                <l n="25">Till Hymen brought his love-delighted hour,</l>
                <l>There dwelt no joy in Eden's rosy bow'r!</l>
                <l>In vain the viewless seraph ling'ring there,</l>
@@ -991,7 +991,7 @@
                <l>True! the sad power to generous hearts may bring</l>
                <l n="40">Delirious anguish on his fiery wing!</l>
                <l>
-                  <pb n="54" facs="tcp:037087_0048_100C48FBB8F01C60"/>Barr'd from delight by Fate's untimely hand,</l>
+                  <pb n="54" facs="unknown:037087_0048_100C48FBB8F01C60"/>Barr'd from delight by Fate's untimely hand,</l>
                <l>By wealthless lot, or pitiless command;</l>
                <l>Or doom'd to gaze on beauties that adorn</l>
                <l>The smile of triumph, or the frown of scorn;</l>
@@ -1011,7 +1011,7 @@
                <l n="55">If Hope's creative spirit cannot raise</l>
                <l>One trophy sacred to thy future days,</l>
                <l>
-                  <pb n="55" facs="tcp:037087_0049_100C48FE07382CD0"/>Scorn the dull crowd that haunt the gloomy shrine</l>
+                  <pb n="55" facs="unknown:037087_0049_100C48FE07382CD0"/>Scorn the dull crowd that haunt the gloomy shrine</l>
                <l>Of hopeless love, to murmur and repine!</l>
                <l>But, should a sigh of milder mood express</l>
                <l n="60">Thy heart-warm wishes true to happiness,</l>
@@ -1028,7 +1028,7 @@
                <l>And all her kindred energies impart</l>
                <l>That burn the brightest in the purest heart!</l>
                <l>
-                  <pb n="56" facs="tcp:037087_0050_100C4900291B1A10"/>When first the Rhodian's mimic art array'd</l>
+                  <pb n="56" facs="unknown:037087_0050_100C4900291B1A10"/>When first the Rhodian's mimic art array'd</l>
                <l>The queen of Beauty in her Cyprian shade,</l>
                <l n="75">The happy master mingled on his piece</l>
                <l>Each look that charm'd him in the fair of Greece;</l>
@@ -1047,7 +1047,7 @@
                <l>Thy pencil traces on the Lover's thought</l>
                <l>Some cottage-home, from towns and toil remote,</l>
                <l>
-                  <pb n="57" facs="tcp:037087_0051_100C49024E6CB7F0"/>Where Love and Lore may claim alternate hours,</l>
+                  <pb n="57" facs="unknown:037087_0051_100C49024E6CB7F0"/>Where Love and Lore may claim alternate hours,</l>
                <l n="90">With Peace embosom'd in Idalian bow'rs!</l>
                <l>Remote from busy Life's bewilder'd way,</l>
                <l>O'er all his heart shall Taste and Beauty sway!</l>
@@ -1066,7 +1066,7 @@
                <l n="105">Where mouldering piles and forests intervene,</l>
                <l>Mingling with darker tints the living green;</l>
                <l>
-                  <pb n="58" facs="tcp:037087_0052_100C490480294280"/>No circling hills his ravish'd eye to bound,</l>
+                  <pb n="58" facs="unknown:037087_0052_100C490480294280"/>No circling hills his ravish'd eye to bound,</l>
                <l>Heaven, Earth, and Ocean, blazing all around!</l>
             </lg>
             <lg>
@@ -1087,7 +1087,7 @@
                <l>And, when its short and sullen noon is o'er,</l>
                <l>The ice-chain'd waters slumbering on the shore,</l>
                <l>
-                  <pb n="59" facs="tcp:037087_0053_100C490731D4F158"/>How bright the faggots in his little hall</l>
+                  <pb n="59" facs="unknown:037087_0053_100C490731D4F158"/>How bright the faggots in his little hall</l>
                <l>Blaze on the hearth, and warm the pictur'd wall!</l>
             </lg>
             <lg>
@@ -1108,7 +1108,7 @@
                <l>While fiery hosts in Heaven's wide circle play,</l>
                <l>And bathe in livid light the milky way,</l>
                <l>
-                  <pb n="60" facs="tcp:037087_0054_100C49096CCF09F0"/>Safe from the storm, the meteor, and the shower,</l>
+                  <pb n="60" facs="unknown:037087_0054_100C49096CCF09F0"/>Safe from the storm, the meteor, and the shower,</l>
                <l n="140">Some pleasing page shall charm the solemn hour—</l>
                <l>With pathos shall command, with wit beguile,</l>
                <l>A generous tear of anguish, or a smile—</l>
@@ -1129,7 +1129,7 @@
                <l>Spent on the prayer his bursting heart, and died!</l>
             </lg>
             <lg>
-               <pb n="61" facs="tcp:037087_0055_100C490B95C48A50"/>
+               <pb n="61" facs="unknown:037087_0055_100C490B95C48A50"/>
                <l n="155">Or will they learn how generous worth sublimes</l>
                <l>The robber Moor <hi rend="sup">3</hi>, and pleads for all his crimes!</l>
                <l>How poor Amelia kiss'd, with many a tear</l>
@@ -1149,7 +1149,7 @@
                <l>Or, down the stream of Truth's historic page,</l>
                <l n="170">From clime to clime descend, from age to age!</l>
                <l>
-                  <pb n="62" facs="tcp:037087_0056_100C490DBB0A1AF0"/>Yet there, perhaps, may darker scenes obtrude</l>
+                  <pb n="62" facs="unknown:037087_0056_100C490DBB0A1AF0"/>Yet there, perhaps, may darker scenes obtrude</l>
                <l>Than Fancy fashions in her wildest mood;</l>
                <l>There shall he pause, with horrent brow, to rate</l>
                <l>What millions died—that Caesar might be great! <hi rend="sup">4</hi>
@@ -1171,7 +1171,7 @@
                <l>And Charles beheld—nor shudder'd at the sight!</l>
             </lg>
             <lg>
-               <pb n="63" facs="tcp:037087_0057_100C490FC01126A0"/>
+               <pb n="63" facs="unknown:037087_0057_100C490FC01126A0"/>
                <l>Oh! vainly wise, the moral Muse hath sung</l>
                <l n="190">That suasive Hope hath but a Syren tongue!</l>
                <l>True; she may sport with life's untutor'd day,</l>
@@ -1193,7 +1193,7 @@
                <l>Thus, with forgiving tears, and reconcil'd,</l>
                <l>The king of Judah mourn'd his rebel child!</l>
                <l n="205">
-                  <pb n="64" facs="tcp:037087_0058_100C4911BAF22DF0"/>Musing on days when yet the guiltless boy</l>
+                  <pb n="64" facs="unknown:037087_0058_100C4911BAF22DF0"/>Musing on days when yet the guiltless boy</l>
                <l>Smil'd on his sire and fill'd his heart with joy!</l>
                <l>My Absalom! the voice of Nature cried!</l>
                <l>Oh! that for thee thy father could have died!</l>
@@ -1212,7 +1212,7 @@
                <l>Then, then, the triumph and the trance begin!</l>
                <l n="220">And all the Phoenix spirit burns within!</l>
                <l>
-                  <pb n="65" facs="tcp:037087_0059_100C4913B92D0620"/>Cease, every joy, to glimmer on my mind,</l>
+                  <pb n="65" facs="unknown:037087_0059_100C4913B92D0620"/>Cease, every joy, to glimmer on my mind,</l>
                <l>But leave—oh! leave—the light of hope behind!</l>
                <l>What though my winged hours of bliss have been,</l>
                <l>Like angel visits, few and far between;</l>
@@ -1240,7 +1240,7 @@
                   </gap>!—</l>
             </lg>
             <lg>
-               <pb n="66" facs="tcp:037087_0060_100C4915419ED738"/>
+               <pb n="66" facs="unknown:037087_0060_100C4915419ED738"/>
                <l>No! not the quaint remark, the sapient rule,</l>
                <l n="240">Nor all the pride of Wisdom's worldly school,</l>
                <l>Have pow'r to sooth, unaided and alone,</l>
@@ -1262,7 +1262,7 @@
                <l n="255">Daughter of Conrad! when he heard his knell,</l>
                <l>And bade his country and his child farewell!</l>
                <l>
-                  <pb n="67" facs="tcp:037087_0061_100C4917501222C0"/>Doom'd the lone isles of Sydney Cove to see,</l>
+                  <pb n="67" facs="unknown:037087_0061_100C4917501222C0"/>Doom'd the lone isles of Sydney Cove to see,</l>
                <l>The martyr of his crimes, but true to thee.</l>
                <l>Thrice the sad father tore thee from his heart,</l>
                <l n="260">And thrice return'd to bless thee, and to part;</l>
@@ -1283,7 +1283,7 @@
                <l n="275">These shall resist the triumph of decay,</l>
                <l>When times is o'er, and worlds have pass'd away,</l>
                <l>
-                  <pb n="68" facs="tcp:037087_0062_100C4919EE186270"/>Cold in the dust this perish'd heart may lie,</l>
+                  <pb n="68" facs="unknown:037087_0062_100C4919EE186270"/>Cold in the dust this perish'd heart may lie,</l>
                <l>But that which warm'd it once shall never die!</l>
                <l>That spark unburied in its mortal frame,</l>
                <l n="280">With living light, eternal, and the same,</l>
@@ -1306,7 +1306,7 @@
                <l>When each returning pledge hath told my child</l>
                <l>That Conrad's tomb is on the desert pil'd;</l>
                <l n="295">
-                  <pb n="69" facs="tcp:037087_0063_100C491BEDD17E00"/>And when the dream of troubled Fancy sees</l>
+                  <pb n="69" facs="unknown:037087_0063_100C491BEDD17E00"/>And when the dream of troubled Fancy sees</l>
                <l>Its lonely rank-grass waving in the breeze;</l>
                <l>Who then will soothe thy grief, when mine is o'er?</l>
                <l>Who will protect thee, helpless Ellenor?</l>
@@ -1325,7 +1325,7 @@
                <l>If fate unite the faithful but to part,</l>
                <l n="310">Why is their memory sacred to the heart?</l>
                <l>
-                  <pb n="70" facs="tcp:037087_0064_100C491E263A29D0"/>Why does the Brother of my childhood seem</l>
+                  <pb n="70" facs="unknown:037087_0064_100C491E263A29D0"/>Why does the Brother of my childhood seem</l>
                <l>Restored awhile in every pleasing dream?</l>
                <l>Why do I joy the lonely spot to view,</l>
                <l>By artless friendship blest when life was new?</l>
@@ -1343,19 +1343,19 @@
             <trailer>END OF THE SECOND PART.</trailer>
          </div>
          <div type="notes">
-            <pb facs="tcp:037087_0065_100C492029AE74B8"/>
+            <pb facs="unknown:037087_0065_100C492029AE74B8"/>
             <head>NOTES ON PART I.</head>
             <p>Note 1. And such thy strength-inspiring aid that bore The hardy Byron to his native shore.</p>
             <p>The following picture of his own distress, given by Byron in his simple and interesting Narrative, justifies the description in p. 10. After relating the barbarity of the Indian Cacique to his child, he proceeds thus:—"A day or two after, we put to sea again, and crossed the great bay I mentioned we had been at the bottom of, when we first hawled away to the westward. The land here was very low and sandy, and something like the mouth of a river which discharged itself into the sea, and which had
-<pb n="72" facs="tcp:037087_0066_100C4922291F0210"/>
+<pb n="72" facs="unknown:037087_0066_100C4922291F0210"/>
 been taken no notice of by us before, as it was so shallow that the Indians were obliged to take every thing out of their canoes and carry it over land. We rowed up the river four or five leagues, and then took into a branch of it that ran first to the eastward and then to the northward: here it became much narrower, and the stream excessively rapid, so that we gained but little way, though we wrought very hard. At night we landed upon its banks, and had a most uncomfortable lodging, it being a perfect swamp; and we had nothing to cover us, though it rained excessively. The Indians were little better off than we, as there was no wood here to make their wigwams; so that all they could do was to prop up the bark, which they carry in the bottom of their canoes, and shelter themselves as well as they could to the leeward of it. Knowing the difficulties they had to encounter here, they had provided themselves with some seal; but we had not a morsel to eat, after the heavy fatigues of the day, excepting a sort of root we saw the Indians make use of, which was very disagreeable to the taste. We laboured all next day against the stream, and fared as we had done the day before. The next day brought us to the carrying place. Here was plenty of wood, but nothing to be got
-<pb n="73" facs="tcp:037087_0067_100C492457879EE0"/>
+<pb n="73" facs="unknown:037087_0067_100C492457879EE0"/>
 for sustenance. We passed this night as we had frequently done under a tree; but what we suffered at this time is not easy to be expressed. I had been three days at the oar without any kind of nourishment except the wretched root above mentioned. I had no shirt, for it had rotted off by bits. All my clothes consisted, of a short grieko (something like a bear-skin), a piece of red cloth which had once been a waistcoat, and a ragged pair of trowsers, without shoes or stockings."</p>
             <p>Note 2. A Briton and a friend.] Don Patricio Gedd, a Scotch physician in one of the Spanish settlements, hospitably relieved Byron and his wretched associates, of which the Commodore speaks in the warmest terms of gratitude.</p>
             <p>Note 3. Or yield the Lyre of Heav'n another string.</p>
             <p>The seven strings of Apollo's harp were the symbolical representations of the seven planets. Herschel, by discovering an eighth, might be said to add another string to the instrument.</p>
             <p>
-               <pb n="74" facs="tcp:037087_0068_100C4926B5DB1430"/>Note 4. The Swedish sage.] Linnaeus.</p>
+               <pb n="74" facs="unknown:037087_0068_100C4926B5DB1430"/>Note 4. The Swedish sage.] Linnaeus.</p>
             <p>Note 5.—Deep from his vaults the Loxian murmurs flow.</p>
             <p>Loxius is a name frequently given to Apollo by Greek writers: it is met with more than once in the Chaoephorae of Aeschylus.</p>
             <p>Note 6.—Unlocks a generous store at thy command.</p>
@@ -1363,23 +1363,23 @@ for sustenance. We passed this night as we had frequently done under a tree; but
             <p>See Exodus, chap. xvii. 3, 5, 6.</p>
             <p>Note 7. Wild Obi flies.] Among the negroes of the West Indies, Obi, or Obiah, is the name of a magical power, which is believed by them to affect the object of its malignity with dismal calamities Such a belief must undoubtedly have been deduced from the superstitious mythology of their kinsmen on the coast of Africa. I have therefore personified Obi as the evil spirit of the African, although the history of the African tribes mentions the evil spirit of their religious creed by a different appellation.</p>
             <p>
-               <pb n="75" facs="tcp:037087_0069_100C492915A780B8"/>Note 8. Sibir's dreary mines.] Mr. Bell of Antermony, in his travels through Siberia, informs us that the name of the country is universally pronounced Sibir by the Russians.</p>
+               <pb n="75" facs="unknown:037087_0069_100C492915A780B8"/>Note 8. Sibir's dreary mines.] Mr. Bell of Antermony, in his travels through Siberia, informs us that the name of the country is universally pronounced Sibir by the Russians.</p>
             <p>Note 9.—Presaging wrath to Poland—and to man!</p>
             <p>"On the 10th of October 1794, a dreadful engagement took place between the Russians under General Fersen and the troops under Kosciusko. The Russians advanced twice to the attack, but were repulsed by the Poles, who however, unfortunately, not contented with the advantages they had gained, abandoned their favourable position on the heights, and pressed on to the attack in their turn. This movement threw the troops into some confusion; and the Russians, forming themselves anew, the route soon became general. The battle, which began at seven in the morning, did not end till noon. Kosciusko flew from rank to rank, and was continually in the hottest part of the engagement, in the course of which he had three horses killed under him. At length he fell; and a Cossack, who did not know him in the peasants dress, which he constantly wore, wounded him from behind with a lance. He recovered, and advanced a few steps,
-<pb n="76" facs="tcp:037087_0070_100C492B1D547BE0"/>
+<pb n="76" facs="unknown:037087_0070_100C492B1D547BE0"/>
 but was again knocked down by another Cossack, who was preparing to give him a mortal blow, when his arm was stopped by a Russian officer, who is said to have been General Chronzazow, to whose wife Kosciusko had a short time before politely given leave of departure from Warsaw to join her husband. The unfortunate Kosciusko implored the officer, if he wished to render him a service, to allow the soldier to put an end to his existence; but the latter chose rather to make him a prisoner. The Polish infantry defended themselves with bravery proportioned to that of their general, and fought with a degree of valour almost approaching to fury.</p>
             <p>The Russians under General Fersen soon afterwards summoned Warsaw to surrender; and on being refused, after the junction of the different corps under Fersen, Dernfeld, Denisow, and Suwarrow, they proceeded, on the 4th of November, to attack the suburb of Prague. In the mean time the generals Madalinski and Dambrowski threw themselves into Warsaw, and prepared for resistance. The suburb of Prague, separated from Warsaw by the Vistula, was defended by more than a hundred pieces of cannon, disposed upon thirty-three batteries. Little intimidated,
-<pb n="77" facs="tcp:037087_0071_100C492D2843A9B8"/>
+<pb n="77" facs="unknown:037087_0071_100C492D2843A9B8"/>
 however, by so formidable a force, the ferocious Suwarrow commanded his soldiers to mount to the assault in the same manner they had done at Ismael, where the Russians entered by climbing over the dead and wounded bodies of their comrades, as well as of their enemies. His further orders were, that they should fight only with the sabre and bayonet. The Russians sprung to the charge with almost inconceivable impetuosity. They eagerly began to climb the works, and the six Russian columns, by singular good fortune, presented themselves at the same moment before the lines at Prague. Thus surrounded, the Polish generals found themselves unable to oppose, with 10,000 soldiers, which was the whole of their force, the united attack of 50,000 men; and, to add to their distress, the fire which they immediately commenced, from the darkness of the night, was so ill directed as to pass over the heads of the assailants. The cry raised by the successful columns penetrated to the entrenchments on the other side the Vistula, and added to the consternation of the Poles engaged with the other part of the Russian force; and they endeavoured to find safety by retiring into Warsaw, over a bridge. In their retreat they were met by another body of Russians, and a dreadful carnage ensued, in which a great part of the garrison of
-<pb n="78" facs="tcp:037087_0072_100C492EACD71488"/>
+<pb n="78" facs="unknown:037087_0072_100C492EACD71488"/>
 Prague was miserably slaughtered. After a severe conflict of eight hours, the resistance on the part of the Poles ceased; but the massacre by the detestable Suwarrow, who, from his habitual cruelty, was selected for this service, continued for two hours longer; and the pillage lasted till noon on the following day. Five thousand Poles were computed to have been slain in the assault; the remainder were either imprisoned or dispersed. The citizens were compelled to lay down their arms, and their houses were plundered by the merciless Russians, who, after the battle had ceased nearly ten hours, about nine o'clock at night set fire to the town, and again began to massacre the inhabitants; nine thousand persons, unarmed men, defenceles women, and harmless infants, perished either in the flames or by the sword, and nearly the whole of the suburb was reduced to ashes. In the whole of this siege it is computed that not less than 30,000 of the Poles were inhumanly put to death. In this exigence, Count Potocki, the chief of the insurrection, proposed to treat with the Russians, and repaired to their head quarters with propositions of peace <gap reason="illegible" resp="#UOM" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> name of the republic. He was received with extreme haughtiness by the infamous Suwarrow, who observed that the Empress was not at war with the republic; that his only object in coming
-<pb n="79" facs="tcp:037087_0073_100C4930C89E5C20"/>
+<pb n="79" facs="unknown:037087_0073_100C4930C89E5C20"/>
 to Warsaw was to reduce the refractory subjects of Poland to obedience; and he intimated that he should not treat with any insurgent, but only with such as, invested with legitimate authority, should come to speak in the name, and on the part of his Polish majesty: Deputies were dispatched from the magistracy of Warsaw to the Russian commander, who returned, after having been constrained to surrender the city at discretion, under the single condition of securing to the citizens their lives and property. The general insolently observed, that there was another article which, without doubt, they had forgotten to ask, but which he would accede to them, which was <hi>pardon for the past.</hi>
             </p>
             <p>In consequence of this arrangement, the firing which had been kept up in the suburb of Prague ceased, and all the inhabitants were requested to surrender their arms. This was refused by the soldiers in the city, and their chief Wawrzecki, with many others of the supreme council, refused to take part in the capitulation. This impeded the close of the negociation; but the military, who refused to lay down their arms, were allowed to leave Warsaw, not however without a declaration from Suwarrow that they might be sure of not escaping, and that, when taken, no quarter would be granted. On the morning of the 7th, the supreme council,
-<pb n="80" facs="tcp:037087_0074_100C4933467FF4A8"/>
+<pb n="80" facs="unknown:037087_0074_100C4933467FF4A8"/>
 with the generalissimo Wawrzecki, remitted into the hands of the king the authority they had exercised. On the 9th the Russian general made his triumphal entry into Warsaw, in which the streets were lined with his troops, and the inhabitants, shut up in their houses, observed a melancholy silence. The chief magistrate delivered him the keys at the bridge of Prague; after which he received the compliments of the king; and on the 10th, went with much pomp to the castle to pay his respects to his majesty. To complete the whole of this execrable scene, ostentatious and solemn blasphemy was called in; and the 1st of December was set apart for a day of solemn thanksgiving, and <hi>Te Deum</hi> was sung for the triumph of powerful oppression over persecuted virtue, to the God of all mercies, whose altars had been stained by the blood of the innocent and helpless; and <q>whose praises were chanted by the voice of murderers, amidst the shrieks and groans of the victims.</q>
             </p>
             <bibl>New Annual Register, 1794.</bibl>
@@ -1388,26 +1388,26 @@ with the generalissimo Wawrzecki, remitted into the hands of the king the author
                </gap>
             </p>
             <p>
-               <pb n="81" facs="tcp:037087_0075_100C49355D5AA218"/>Note 11 How long was Timur's iron sceptre swayed?—To elucidate this passage, I shall subjoin a quotation from the preface to Letters from a Hindoo Rajah, a work of elegance and celebrity.</p>
+               <pb n="81" facs="unknown:037087_0075_100C49355D5AA218"/>Note 11 How long was Timur's iron sceptre swayed?—To elucidate this passage, I shall subjoin a quotation from the preface to Letters from a Hindoo Rajah, a work of elegance and celebrity.</p>
             <p>"The impostor of Mecca had established, as one of the principles of his doctrine, the merit of extending it, either by persuasion, or the sword, to all parts of the earth. How steadily this injunction was adhered to by his followers, and with what success it was pursued, is well known to all who are in the least conversant in history.</p>
             <p>"The same overwhelming torrent, which had inundated the greater part of Africa, burst its way into the very heart of Europe, and covered many kingdoms of Asia with unbounded desolation; directed its baleful course to the flourishing provinces of Hindostan. Here these fierce and hardy adventurers, whose only improvement had been in the science of destruction, who added the fury of fanaticism to the ravages of war, found the great end of their conquests opposed, by objects which neither the ardour of their persevering zeal, nor savage barbarity, could surmount. Multitudes were sacrificed by the cruel hand of religious persecution, and whole countries were deluged in blood, in the vain hope, that
-<pb n="82" facs="tcp:037087_0076_100C4936E1159EA8"/>
+<pb n="82" facs="unknown:037087_0076_100C4936E1159EA8"/>
 by the destruction of a part, the remainder might be persuaded, or terrified into the profession of Mahomedism: but all these sanguinary efforts were ineffectual; and at length being fully convinced, that though they might extirpate, they could never hope to convert any number of the Hindoos, they relinquished the impracticable idea, with which they had entered upon their career of conquest, and contented themselves with the acquirement of the civil dominion and almost universal empire of Hindostan."</p>
             <bibl>Letters from a Hindoo Rajah, by Eliza Hamilton.</bibl>
             <p>Note 12. And braved the stormy spirit of the Cape.] See the description of the Cape of Good Hope, translated from Camoens, by Mickle.</p>
             <p>Note 13. While famish'd nations died along the shore.</p>
             <p>The following account of British conduct, and its consequences in Bengal, will afford a sufficient idea of the fact alluded to in this passage. After describing the monopoly of salt, betel nut, and tobacco, the historian proceeds thus: "Money in this current came but by drops; it could not quench the thirst of those who
-<pb n="83" facs="tcp:037087_0077_100C4938EDF4D8C8"/>
+<pb n="83" facs="unknown:037087_0077_100C4938EDF4D8C8"/>
 waited in India to receive it. An expedient, such as it was remained to quicken its pace. The natives could live with little salt, but could not want food. Some of the agents saw themselves well situated for collecting the rice into stores; they did so. They knew the Gentoos would rather die than violate the principles of their religion by eating flesh. The alternative would therefore be between giving what they had, or dying. The inhabitants sunk;— they that cultivated the land, and saw the harvest at the disposal of others, planted in doubt, scarcity ensued. Then the monopoly was easier managed—sickness ensued. In some districts the languid living left the bodies of their numerous dead unburied.</p>
             <bibl>Short History of the English Transactions, in the East Indies, page 145.</bibl>
             <p>Note 14. Nine times hath Brama's wheel's of lightning hurl'd, His awful presence o'er the prostrate world!</p>
             <p>Among the sublime fictions of the Hindoo mythology, it is one article of belief, that the Deity Brama has descended nine times upon the world in various forms, and that he is yet to appear a tenth time in the figure of a warrior upon a white horse to out
-<pb n="84" facs="tcp:037087_0078_100C493B845C8420"/>
+<pb n="84" facs="unknown:037087_0078_100C493B845C8420"/>
 off all incorrigible offenders. Avator is the word used to express his descent.</p>
             <p>Note 15: And Camdeo bright, and Ganesa sublime.] Camdeo is the God of Love in the mythology of the Hindoos. Ganesa and Seraswatee correspond to the Pagan deities, Janus and Minerva.</p>
          </div>
          <div type="notes">
-            <pb facs="tcp:037087_0079_100C493D95839D38"/>
+            <pb facs="unknown:037087_0079_100C493D95839D38"/>
             <head>NOTES ON PART II.</head>
             <p>Note 1. The noon of manhood to a myrtle shade!</p>
             <p>Sacred to Venus is the myrtle shade. Dryden.</p>
@@ -1418,7 +1418,7 @@ off all incorrigible offenders. Avator is the word used to express his descent.<
                <l>What scenes of misery torment thy view?</l>
                <l>What painful struggles of thy dying crew,</l>
                <l>
-                  <pb n="86" facs="tcp:037087_0080_100C493F97549090"/>Thy perish'd hopes all buried in the flood,</l>
+                  <pb n="86" facs="unknown:037087_0080_100C493F97549090"/>Thy perish'd hopes all buried in the flood,</l>
                <l>O'erspread with corses red with human blood?</l>
                <l>So pierced with anguish hoary Priam gaz'd,</l>
                <l>While Troy's imperial domes in ruin blazed,</l>
@@ -1439,7 +1439,7 @@ off all incorrigible offenders. Avator is the word used to express his descent.<
                <l>While these reflections rack his feeling mind,</l>
                <l>Rodmond, who clung behind, his grasp resign'd,</l>
                <l>
-                  <pb n="87" facs="tcp:037087_0081_100C4941DABA8780"/>And, as the tumbling waters o'er him roll'd,</l>
+                  <pb n="87" facs="unknown:037087_0081_100C4941DABA8780"/>And, as the tumbling waters o'er him roll'd,</l>
                <l>His outstretch'd arms the master's legs enfold;</l>
                <l>Sad Albert feels the dissolution near,</l>
                <l>And strives in vain his fetter'd limbs to clear;</l>
@@ -1456,7 +1456,7 @@ off all incorrigible offenders. Avator is the word used to express his descent.<
                <speaker>MOOR.</speaker>
                <p>
                   <stage>(With a contemptuous smile.)</stage> Poor, impotent, and weak! <stage>(<hi>He places</hi> Amelia, <hi>who is almost insensible, on a stone.</hi>)</stage> Look up, my bride! No priest shall bless our union—no hallowed prayer be ſaid!—I know what's better. <stage>(<hi>Takes the handkerchief from</hi> Amelia's <hi>neck, and discovers her bosom.</hi>)</stage> Gaze on this beauteous sight! if ye
-<pb n="88" facs="tcp:037087_0082_100C4943F61615A8"/>
+<pb n="88" facs="unknown:037087_0082_100C4943F61615A8"/>
 be men! Felons! have ye hearts of ſtone?—Behold me here! I'm young—I've felt the power of love! I was belov'd! betroth'd! —I had reached the gate of paradise! <stage>(In a tone of tender supplication)</stage>, and shall my brothers force me thence? <stage>(The Robbers smile.)</stage> —It is enough! <stage>(With firmness.)</stage> Thus far has Nature spoke!—Now the Man's part begins!—I am a murderer, like you!—a robber, and incendiary!—I am— <stage>(advancing to the band with an air of inexpressible majesty)</stage>—your Captain! and will ye thus, ye felons! sword in hand, thus treat, thus parley with your Captain? Down with your arms! it is your master who commands! <stage>(They lay down their arms.)</stage> There! what are you now but chil<g ref="char:EOLhyphen"/>dren, and I—am free!—Moor muſt be free, in order to be great! Now, I would not exchange this triumph for an elysium of love! <stage>(He draws his sword.)</stage> Poor wretches! your mean souls reach not this height.—What e'er is great seems frenzy in your eyes.—The spirit of despair outstrips your snail-paced wiſdom. On deeds like these we pause not till they are done!—I'll think on this— hereafter!</p>
                <stage>(He stabs Amelia.)</stage>
             </sp>
@@ -1466,7 +1466,7 @@ be men! Felons! have ye hearts of ſtone?—Behold me here! I'm young—I've fel
                   <stage>(Clapping their hands.)</stage> Bravo! most worthy Captain! Thy ho<g ref="char:EOLhyphen"/>nour is discharg'd!—Thou Prince of Robbers!</p>
             </sp>
             <sp>
-               <pb n="89" facs="tcp:037087_0083_100C4945F7CF23D0"/>
+               <pb n="89" facs="unknown:037087_0083_100C4945F7CF23D0"/>
                <speaker>MOOR.</speaker>
                <p>Now she is mine! She's mine!—Or that hereafter is but the dream of fools!—I have foil'd my deſtiny!—In spite of fate, I have brought home my bride:—And with this sword have sealed our wedding vows —Thousands of years shall pass, and seasons roll, e'er the bright sun shall witness such a deed.— <stage>(<hi>To</hi> Amelia <hi>with tenderness.</hi>)</stage> Was it not sweet, my Emily, to die thus by thy bridegroom's hand?</p>
             </sp>
@@ -1481,7 +1481,7 @@ be men! Felons! have ye hearts of ſtone?—Behold me here! I'm young—I've fel
             <p>The carnage occasioned by the wars of Julius Caesar have been usually estimated as two millions of men.</p>
             <p>Note 5. Or learn the fate that bleeding thousands bore March'd by their Charles to Dneiper's swampy shore.</p>
             <p>In this extremity (says the Biographer of Charles XII. of Swe<g ref="char:EOLhyphen"/>den, speaking of his military exploits before the battle of Pulto<g ref="char:EOLhyphen"/>wa), the memorable winter of 1709, which was still more remark<g ref="char:EOLhyphen"/>able
-<pb facs="tcp:037087_0084_100C49650DE82A58"/>
+<pb facs="unknown:037087_0084_100C49650DE82A58"/>
 in that part of Europe than in France, destroyed numbers of his troops: for Charles resolved to brave the seasons <gap reason="illegible" resp="#UOM" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> he had done his enemies, and ventured to make long marches during this mortal cold. It was in one of these marches that two thousand men fell down dead with cold before his <gap reason="illegible" resp="#UOM" extent="1 word">
@@ -1490,11 +1490,11 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             <p>Note 6. And part like Ajut, never to return!] See the histo<g ref="char:EOLhyphen"/>ry of Ajut and Anningait in the Rambler.</p>
          </div>
          <div type="half_title">
-            <pb facs="tcp:037087_0085_100C3276A27DBA28"/>
+            <pb facs="unknown:037087_0085_100C3276A27DBA28"/>
             <p>SPECIMENS OF TRANSLATION FROM MEDEA.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:037087_0086_100C3282F59EF590"/>
+            <pb facs="unknown:037087_0086_100C3282F59EF590"/>
             <head>SPECIMENS OF TRANSLATION FROM MEDEA.</head>
             <epigraph>
                <q>
@@ -1517,7 +1517,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             <l>The trembling transports of the lyre,</l>
             <l>The murmur of the shell,—</l>
             <l>
-               <pb n="94" facs="tcp:037087_0087_100C49477B671B88"/>Why to the burst of Joy alone</l>
+               <pb n="94" facs="unknown:037087_0087_100C49477B671B88"/>Why to the burst of Joy alone</l>
             <l>Accords sweet music's soothing tone?</l>
             <l>Why can no bard, with magic strain,</l>
             <l n="10">In slumbers steep the heart of pain?</l>
@@ -1539,7 +1539,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             <l>In slumbers steep the heart of pain!</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:037087_0088_100C4949039F7998"/>
+            <pb facs="unknown:037087_0088_100C4949039F7998"/>
             <head>SPEECH OF THE CHORUS, In the same Tragedy, to dissuade Medea from her purpose of putting her children to death, and flying for protection to Athens.</head>
             <lg>
                <l>O HAGGARD queen! to Athens dost thou guide</l>
@@ -1554,7 +1554,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>Rear their bright banners o'er unconquer'd towers!</l>
             </lg>
             <lg>
-               <pb n="96" facs="tcp:037087_0089_100C494C20D07F58"/>
+               <pb n="96" facs="unknown:037087_0089_100C494C20D07F58"/>
                <l>Where joyous youth, to Music's mellow strain,</l>
                <l n="10">Twines in the dance with Nymphs for ever fair,</l>
                <l>While Spring eternal, on the lilied plain,</l>
@@ -1581,7 +1581,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                   <l>The Queen of Beauty bow'd to taste the wave!</l>
                </lg>
                <lg>
-                  <pb n="97" facs="tcp:037087_0090_100C494E341991F8"/>
+                  <pb n="97" facs="unknown:037087_0090_100C494E341991F8"/>
                   <l n="25">And blest the stream, and breath'd across the land,</l>
                   <l>The soft sweet gale that fans yon summer bowers;</l>
                   <l>And there the sister Loves, a smiling band,</l>
@@ -1609,7 +1609,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                   <l n="40">Unholy woman! with thy hands embrued</l>
                </lg>
                <lg>
-                  <pb n="98" facs="tcp:037087_0091_100C494FB7F9F0D8"/>
+                  <pb n="98" facs="unknown:037087_0091_100C494FB7F9F0D8"/>
                   <l>In thine own children's gore?—oh! ere they bleed,</l>
                   <l>Let Nature's voice thy ruthless heart appal!</l>
                   <l>Pause at the bold, irrevocable deed—</l>
@@ -1637,7 +1637,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                   <l>Or hands to finish what thy wrath began?</l>
                </lg>
                <lg>
-                  <pb n="99" facs="tcp:037087_0092_100C4951D717C228"/>
+                  <pb n="99" facs="unknown:037087_0092_100C4951D717C228"/>
                   <l>When o'er each babe you look a last adieu,</l>
                   <l>And gaze on Innocence that smiles asleep,</l>
                   <l>Shall no fond feeling beat, to Nature true,</l>
@@ -1665,7 +1665,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                   <l>Watch the damned parracide!</l>
                </lg>
                <lg>
-                  <pb n="100" facs="tcp:037087_0093_100C4954A286FD40"/>
+                  <pb n="100" facs="unknown:037087_0093_100C4954A286FD40"/>
                   <l>Yet, ere Colchia's rugged daughter</l>
                   <l>Perpetrate the dire design,</l>
                   <l n="75">And consign to kindred slaughter</l>
@@ -1691,7 +1691,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                   <l>Tender cares, and pleasing pain?</l>
                </lg>
                <lg>
-                  <pb n="101" facs="tcp:037087_0094_100C4956AF6BC540"/>
+                  <pb n="101" facs="unknown:037087_0094_100C4956AF6BC540"/>
                   <l>Hast thou, on the troubled ocean,</l>
                   <l n="90">Braved the tempest loud and strong,</l>
                   <l>Where the waves, with wild commotion,</l>
@@ -1712,11 +1712,11 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             </div>
          </div>
          <div type="half_title">
-            <pb facs="tcp:037087_0095_100C49583321B4D8"/>
+            <pb facs="unknown:037087_0095_100C49583321B4D8"/>
             <p>LOVE AND MADNESS; AN ELEGY.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:037087_0096_100C495B528E6978"/>
+            <pb facs="unknown:037087_0096_100C495B528E6978"/>
             <head>LOVE AND MADNESS; AN ELEGY WRITTEN IN 1795.</head>
             <lg>
                <l>HARK! from the battlements of yonder tower<note n="*" place="bottom">Warwick Castle.</note>
@@ -1734,7 +1734,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l n="10">Tun'd all its charms, and E—n was kind!</l>
             </lg>
             <lg>
-               <pb n="106" facs="tcp:037087_0097_100C495CDEB42738"/>
+               <pb n="106" facs="unknown:037087_0097_100C495CDEB42738"/>
                <l>"Yet, can I cease, while glows this trembling frame,</l>
                <l>In sighs to speak thy melancholy name!</l>
                <l>I hear thy spirit wail in every storm!</l>
@@ -1757,7 +1757,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>Condemn this heart, that bled in love forlorn!</l>
             </lg>
             <lg>
-               <pb n="107" facs="tcp:037087_0098_100C495EDCF59300"/>
+               <pb n="107" facs="unknown:037087_0098_100C495EDCF59300"/>
                <l>"And ye, proud fair, whose souls no gladness warms,</l>
                <l>Save Rapture's homage to your conscious charms!</l>
                <l n="30">Delighted idols of a gaudy train!</l>
@@ -1778,7 +1778,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>I wander'd, hopeless, friendless, and alone!</l>
             </lg>
             <lg>
-               <pb n="108" facs="tcp:037087_0099_100C4960E8D6BA28"/>
+               <pb n="108" facs="unknown:037087_0099_100C4960E8D6BA28"/>
                <l>"Oh! righteous Heav'n! 'twas then my tortur'd soul</l>
                <l n="45">First gave to wrath unlimited controul!</l>
                <l>Adieu the silent look! the streaming eye!</l>
@@ -1800,7 +1800,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>"Oh! 'twas a deed of Murder's deepest grain!</l>
                <l>Could B—k's soul so true to wrath remain?</l>
                <l n="60">
-                  <pb n="109" facs="tcp:037087_0100_100C4962EAF3F0F0"/>A friend long true, a once fond lover fell!—</l>
+                  <pb n="109" facs="unknown:037087_0100_100C4962EAF3F0F0"/>A friend long true, a once fond lover fell!—</l>
                <l>Where Love was foster'd, could not Pity dwell?</l>
             </lg>
             <lg>
@@ -1821,11 +1821,11 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             </lg>
          </div>
          <div type="half_title">
-            <pb facs="tcp:037087_0101_100C32747654B4E8"/>
+            <pb facs="unknown:037087_0101_100C32747654B4E8"/>
             <p>SONGS.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:037087_0102_100C49670DD87EA0"/>
+            <pb facs="unknown:037087_0102_100C49670DD87EA0"/>
             <head>THE WOUNDED HUSSAR.</head>
             <lg>
                <l>ALONE to the banks of the dark-rolling Danube</l>
@@ -1846,7 +1846,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>That melted in love, and that kindled in war!</l>
             </lg>
             <lg>
-               <pb n="114" facs="tcp:037087_0103_100C496913675C88"/>
+               <pb n="114" facs="unknown:037087_0103_100C496913675C88"/>
                <l>How smit was fair Adelaide's heart at the sight!</l>
                <l>How bitter she wept o'er the victim of war?</l>
                <l>Hast thou come, my fond Love, this last sorrowful night,</l>
@@ -1866,7 +1866,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:037087_0104_100C496B23BAE960"/>
+            <pb facs="unknown:037087_0104_100C496B23BAE960"/>
             <head>GILDEROY.</head>
             <lg>
                <l>THE last, the fatal hour is come</l>
@@ -1887,7 +1887,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>The sledge is all thy bier!</l>
             </lg>
             <lg>
-               <pb n="116" facs="tcp:037087_0105_100C496D52A97358"/>
+               <pb n="116" facs="unknown:037087_0105_100C496D52A97358"/>
                <l>Oh, Gilderoy! bethought we then</l>
                <l>So soon, so sad, to part,</l>
                <l n="15">When first in Roslin's lovely glen</l>
@@ -1912,7 +1912,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>He could not injure you!</l>
             </lg>
             <lg>
-               <pb n="117" facs="tcp:037087_0106_100C496F5A0C55C0"/>
+               <pb n="117" facs="unknown:037087_0106_100C496F5A0C55C0"/>
                <l>A long adieu! but where shall fly</l>
                <l n="30">Thy widow all forlorn;</l>
                <l>When every mean and cruel eye</l>
@@ -1932,7 +1932,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:037087_0107_100C497157E59590"/>
+            <pb facs="unknown:037087_0107_100C497157E59590"/>
             <head>THE HARPER.</head>
             <lg>
                <l>ON the green banks of Shannon, when Sheelah was nigh,</l>
@@ -1953,7 +1953,7 @@ in that part of Europe than in France, destroyed numbers of his troops: for Char
                <l>I had always a friend in my poor dog Tray.</l>
             </lg>
             <lg>
-               <pb n="120" facs="tcp:037087_0108_100C497355DA7F68"/>
+               <pb n="120" facs="unknown:037087_0108_100C497355DA7F68"/>
                <l>When the road was so dark, and the night was so cold,</l>
                <l>And Pat and his dog were grown weary and old,</l>
                <l n="15">How snugly we slept in my old coat of grey,</l>
